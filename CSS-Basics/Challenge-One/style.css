@@ -1,0 +1,21 @@
+#wrap {
+    background-color: lightskyblue;
+    width: 600px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+li:first-letter {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 26px;
+}

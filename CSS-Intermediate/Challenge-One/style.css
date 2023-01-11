@@ -1,0 +1,47 @@
+body {
+    background-color: grey;
+}
+
+#wrap {
+    width: 800px;
+    margin:0 auto;
+}
+
+#nav {
+    background-color: lightblue;
+    float: left;
+    width: 25%;
+    min-height: 418px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#nav ul{
+    list-style-position: inside;
+}
+
+#content {
+    background-color: blue;
+    float: left;
+    width:75%;
+    text-align: center;
+}
+
+#content p{
+    padding: 0 10px;
+}
+
+#content ul{
+    list-style: none;
+}
+
+#footer {
+    background-color: grey;
+}
+
+#footer p{
+    padding-top: 20px;
+    margin-bottom: 0;
+}

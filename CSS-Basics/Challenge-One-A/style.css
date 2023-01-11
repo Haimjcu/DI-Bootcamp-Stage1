@@ -1,0 +1,36 @@
+body {
+    background-color: beige;    
+}
+
+#wrap {
+    background-color: yellow;
+    width: 600px;
+    margin: 0 auto;
+    border: 3px dotted;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 3px dotted;
+    margin: 0;
+}
+
+p {
+    padding: 0 10px;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    padding: 0 10px;
+}
+
+li:first-letter {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.copyright {
+    text-align: center;
+}
