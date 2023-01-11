@@ -1,0 +1,56 @@
+.header {
+    background-image: url('intro_wide.jpg');
+    background-size: cover;
+    min-height: 800px;
+    color: #fff;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.header p {
+    font-size: 36px;
+}
+
+.header div {
+    width: 30%;
+    margin-left: 15%;
+}
+
+.main {
+    margin-top: 50px;
+    padding-left: 20px;
+}
+
+.year {
+    margin: 20px 0;
+    font-size: 46px;
+    color: #4884ED;
+}
+
+.event {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.main h1 {
+    font-size: 40px;
+}
+
+#rolling-stone, #acid-test {
+   margin: 0 auto;
+   height: 600px;
+   display: block;
+}
+
+#acid-test {
+background-color: black;
+ }
+
+.footer {
+    background-image: url('last_wide.jpg');
+    background-size: cover;
+    min-height: 800px;
+    margin-top:50px;
+}
